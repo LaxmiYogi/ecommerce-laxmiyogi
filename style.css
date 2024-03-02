@@ -1,0 +1,46 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+.headingnav{
+    /* position:fixed;
+    width:100%;
+    top:0px; */
+
+}
+#navbarNav{
+    margin-right:250px;
+}
+li{
+    margin-right:30px;
+    list-style-type:none;
+    
+}
+li a{
+    text-decoration:none;
+    color:black;
+    line-height: 30px;
+   
+    
+}
+#hello{
+    width:100%;
+    height:652px;
+    background-color:#EDF1F3;
+    
+}
+#hello h2{
+    font-size:70px;
+    position:relative;
+    top:100px;
+}
+.btn-secondary{
+    position:relative;
+    top:107px;
+    padding:11px 68px 12px 52px;
+}
+#hello img{
+    position:relative;
+    bottom: 20px;
+}
